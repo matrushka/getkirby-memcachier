@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=5.3.2",
+        "memcachier/php-memcache-sasl": ">=1.0.1"
+    }
+}
